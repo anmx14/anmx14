@@ -9,7 +9,6 @@ I'm [learning/working on] software development. 🖥️
 - 🔭 I’m currently working on [Project Name]
 - 🌱 I’m currently learning [Technology/Language]
 - 💬 Ask me about [Topics]
-- 📫 How to reach me: [Your Email]
 - ⚡ Fun fact: [Fun Fact About You]
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
